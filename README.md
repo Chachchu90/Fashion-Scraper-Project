@@ -1,2 +1,4 @@
-# Fashion-Scraper-Project
-This is the project I have done in Computer Programming (COS48) subject in the university. It's fashion scraping site using farmer's website
+# Web Based Fashion Search Aggregation System - Fashion Scarper
+
+The program and scraping scripts were developed using Python, and include a database for storing scraped data,
+enhanced programming skills, and gained a better understanding of the development process
